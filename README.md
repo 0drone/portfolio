@@ -1,4 +1,4 @@
 # portfolio
 
-Displaying various projects for anyone who is interested.
+Displaying some of my projects for anyone who is interested.
 
