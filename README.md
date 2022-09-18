@@ -10,3 +10,4 @@ Group projects based on technology used (select all with javascript for example)
 
 Message field for direct email
 
+Light or Dark Theme
